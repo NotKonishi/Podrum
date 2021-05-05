@@ -1,2 +1,2 @@
-worker: python Podrum/__main__.py
+worker: python podrum/__main__.py
 
